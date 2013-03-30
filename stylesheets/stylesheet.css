@@ -83,45 +83,6 @@ header h2 {
   font-weight: normal;
   line-height: 1.3;
 }
-
-.header-pic{
-  float: left;
-  width: 410px; 
-  margin-right: 40px;
-}
-
-.header-content{
-  float: left;
-  width: 500px; 
-}
-
-.section-divider{
-  float: left;
-  width: 100%; 
-  margin: 20px 0px;
-}
-
-.section-pic{
-  float: left;
-  width: 310px; 
-  margin-right: 40px;
-}
-
-.section-content{
-  float: left;
-  width: 600px; 
-}
-
-.section-rpic{
-  float: left;
-  width: 310px; 
-}
-
-.section-rcontent{
-  float: left;
-  width: 600px; 
-  margin-right: 40px;
-}
  
 footer {
   float: left;
