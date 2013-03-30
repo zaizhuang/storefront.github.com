@@ -37,6 +37,14 @@
   margin-right: 40px;
 }
 
+.faded {
+  color: #aaa;
+}
+
+.text-center{
+  text-align: center;
+}
+
 @media only screen and (max-width: 767px) {
   .section-pic{ display:none; }
   .section-rpic{ display:none; }
