@@ -51,10 +51,12 @@ body {
   font-size: 1em;
   line-height: 1.5; 
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  background-image: url('../images/bg.png');
 }
 
 a {
   color: #d5000d;
+  color: #16aace;
   text-decoration: underline;
 }
 a:hover {
@@ -128,7 +130,6 @@ footer {
 
 #container {
   /*background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;*/
-  min-height: 595px;
 }
 
 .inner {
